@@ -23,15 +23,12 @@
 
 <br><h3 align="center">Connect with me:</h3>
 
-<p align="center">
-  
-<a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
+<p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lahiru-prasad-949a7a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.facebook.com/lahirupresath.lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lahiru_presath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
 <a href="https://chat.whatsapp.com/HvRvHIg7L6A8cuPtqbt8gr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
-  <a href="https://discord.gg/LK-Lahi#1248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LK-Lahi#1248" height="30" width="40" /></a>
-</p>
+  <a href="https://discord.gg/LK-Lahi#1248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LK-Lahi#1248" height="30" width="40" /></a></p>
 
 
 
@@ -42,4 +39,10 @@
 
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru-lk&show_icons=true&locale=en&layout=compact" alt="lahiru-lk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiru-lk&show_icons=true&locale=en" alt="lahiru-lk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru-lk&" alt="lahiru-lk" /></p>
 
