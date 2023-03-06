@@ -31,12 +31,29 @@
 ✅ ⚡ Fun fact **I am Funny but I am lazy ,therefor I search shortcuts.**
 
 
-<br><h3 align="center">Connect with me:</h3><p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
+<br><h3 align="center">Connect with me 📞💬📧:</h3><p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lahiru-prasad-949a7a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.facebook.com/lahirupresath.lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lahiru_presath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
 <a href="https://chat.whatsapp.com/HvRvHIg7L6A8cuPtqbt8gr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
   <a href="https://discord.gg/LK-Lahi#1248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LK-Lahi#1248" height="30" width="40" /></a></p>
+  [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94788311883)](https://wa.me/qr/QLOL7FG5VKK6K1)
+
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LK_Lahiru_)
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruprasad20000321@gmail.com)](mailto:lahiruprasad20000321@gmail.com)
+
+ [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/Lahiru-LK)](https://github.com/Lahiru-LK)
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-prasad-949a7a242/)](https://www.linkedin.com/in/lahiru-prasad-949a7a242/)
+
+ [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logoColor=white&logo=Telegram&link=https://#)](https://#)
+
+ [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logoColor=white&logo=facebook&link=https://www.facebook.com/lahirupresath.lahiru?mibextid=ZbWKwL)](https://www.facebook.com/lahirupresath.lahiru?mibextid=ZbWKwL)
+
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-c32aa3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lahiru_presath/)](https://www.instagram.com/lahiru_presath/)
+  
 
 
 
