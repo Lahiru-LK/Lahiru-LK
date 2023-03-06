@@ -3,7 +3,7 @@
 <h1 align="center">Hello there! .. 👋, I'm Lahiru prasad</h1>
 <h3 align="center">Software Engineering - (UG) | Student at University of Ruhuna</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76117a0f10adaab82eb67f9fb806eb0a521b3df54db3&rid=giphy.gif&ct=s" width="300" hight="200" />
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76117a0f10adaab82eb67f9fb806eb0a521b3df54db3&rid=giphy.gif&ct=s" width="300" hight="200" /><br>
 
 
 
@@ -20,9 +20,7 @@
 ✅ ⚡ Fun fact **I am Funny but I am lazy ,therefor I search shortcuts.**
 
 
-<br><h3 align="center">Connect with me:</h3>
-
-<p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
+<br><h3 align="center">Connect with me:</h3><p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lahiru-prasad-949a7a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.facebook.com/lahirupresath.lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lahiru_presath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lahiru_Prasad_LK" height="30" width="40" /></a>
