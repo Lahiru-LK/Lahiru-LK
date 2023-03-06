@@ -1,11 +1,11 @@
-<p align="right">
+<p align="center">
   <a href="https://github.com/Lahiru-LK">
     <img src="https://komarev.com/ghpvc/?username=Lahiru-LK&style=flat-square&color=040404" alt="GitHub visitors" />
   </a>
   <a href="https://github.com/Lahiru-LK?tab=followers">
     <img src="https://img.shields.io/github/followers/Lahiru-LK?style=flat-square&color=040404&logo=github" alt="GitHub followers" />
   </a>
-</p>
+</p><br>
 
 
 
