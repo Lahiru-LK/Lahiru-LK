@@ -39,10 +39,10 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru-lk&show_icons=true&locale=en&layout=compact" alt="lahiru-lk" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiru-lk&show_icons=true&locale=en" alt="lahiru-lk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru-lk&" alt="lahiru-lk" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru-lk&show_icons=true&locale=en&layout=compact" alt="lahiru-lk" /></p>
 
