@@ -54,7 +54,7 @@
 </a>
 
 <a href="#lahiru-lk-title">
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="lahiru-lk" align="center" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="lahiru-lk" align="right" />
 </a>
 
 
