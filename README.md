@@ -18,9 +18,9 @@
 
 
 
-✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP and MYSQL**
+✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP, C++, C#, React ,Note.js and MYSQL**
 
-✅ 🔭 I’m currently working on **java programming**
+✅ 🔭 I’m currently working on **React, Node.js and java programming**
 
 ✅ 💬 Ask me about **java,MEARN**
 
@@ -28,7 +28,7 @@
 
 ✅ 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-✅ ⚡ Fun fact **I am Funny but I am lazy ,therefor I search shortcuts.**
+✅ ⚡ Fun fact **I am Funny but I am lazy , therefor I search shortcuts.**
 
 
 <br><h3 align="center">Connect with me 📞💬📧:</h3><p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
