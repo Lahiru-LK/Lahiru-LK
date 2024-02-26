@@ -1,6 +1,5 @@
-![Header](./your-header-image-name.png)
 
-
+![github-header-image](https://github.com/Lahiru-LK/Lahiru-LK/assets/104630433/0c44c2a7-9f2c-41db-baf3-9c45020505a6)
 
 <p align="center">
   <a href="https://github.com/Lahiru-LK">
