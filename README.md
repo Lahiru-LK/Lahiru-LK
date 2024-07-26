@@ -55,23 +55,5 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="lahiru-lk" align="right" />
 </a>
 
-#### WakaTime Card Exclusive Options
-
-| Name | Description | Type | Default value |
-| --- | --- | --- | --- |
-| `hide` | Hides the languages specified from the card. | string (comma-separated values) | `null` |
-| `hide_title` | Hides the title of your card. | boolean | `false` |
-| `line_height` | Sets the line height between text. | integer | `25` |
-| `hide_progress` | Hides the progress bar and percentage. | boolean | `false` |
-| `custom_title` | Sets a custom title for the card. | string | `WakaTime Stats` |
-| `layout` | Switches between two available layouts `default` & `compact`. | enum | `default` |
-| `langs_count` | Limits the number of languages on the card, defaults to all reported languages. | integer | `null` |
-| `api_domain` | Sets a custom API domain for the card, e.g. to use services like [Hakatime]([[https://github.com/mujx/hakatime](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e)](https://github.com/Lahiru-LK)) or [Wakapi](https://github.com/Lahiru-LK) | string | `wakatime.com` |
-| `display_format` | Sets the WakaTime stats display format. Choose `time` to display time-based stats or `percent` to show percentages. | enum | `time` |
-| `disable_animations` | Disables all animations in the card. | boolean | `false` |
-
-***
-
-
 
 
