@@ -32,8 +32,9 @@
 
 ✅ ⚡ Fun fact **I am Funny but I am lazy , therefor I search shortcuts.**
 
-
-
+<p align="center">
+contributions in the last year
+</p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
