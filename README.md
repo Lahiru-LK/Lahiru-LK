@@ -33,7 +33,8 @@
 
 
 
-  <br><h3 align="center"> 🥇 Contributions in the last year 🥇 </h3>
+  <br>
+  <h2 align="center"> 🥇 Contributions in the last year 🥇 </h2>
 <picture>
    <source
     media="(prefers-color-scheme: dark)"
@@ -62,14 +63,25 @@
   
 <br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools-IDE ⚒️</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,cplusplus,csharp" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,clion,eclipse,emacs,phpstorm,pycharm,rider,webstorm,visualstudio,vscode,vscodium" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,csharp,clojure,crystal,dart,elixir,go,haskell,java,javascript,kotlin,lua,matlab,objectivec,perl,php,python,r,ruby,rust,scala,swift,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,django,ember,express,flutter,gatsby,grails,hibernate,laravel,nextjs,nuxtjs,react,spring,svelte,symfony,vue" /><br>
-    <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,apollo,apple,appwrite,arch,arduino,astro,atom,autocad,aws,azul,azure,babel,bevy,bitbucket,blender,bsd,bun,cassandra,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,debian,deno,devto,discord,discordjs,docker,dotnet,dynamodb,elasticsearch,electron,elysia,emotion,fastapi,fediverse,figma,firebase,flask,fortran,gamemakerstudio,git,github,gitlab,gmail,gherkin,gradle,godot,grafana,graphql,gtk,gulp,haxe,haxeflixel,heroku,html,htmx,idea,ai,instagram,ipfs,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,md,mastodon,materialui,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,ps,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,pycharm,py,pytorch,qt,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,vite,vitest,yarn,yew,zig" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,nextjs,mysql,cplusplus,csharp,cpp,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,clion,eclipse,phpstorm,pycharm,rider,webstorm,visualstudio,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,csharp,dart,java,javascript,php,python,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,express,flutter,hibernate,laravel,nextjs,react,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=ae,arduino,autocad,blender,cmake,css,discord,dotnet,figma,firebase,git,github,html,idea,ai,inux,mongodb,mysql,nestjs,nextjs,nodejs,ps,php,phpstorm,python,postman,pr,pycharm,py,spring,ubuntu,unity,unreal,vite,wordpress" />
 </div>
+
+<h3>Languages</h3>
+<ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>C#</li>
+    <li>Dart</li>
+    <li>Java</li>
+    <li>Java
+
 
 <br/>
 
