@@ -64,7 +64,7 @@
 </a>
 
 <a href="#lahiru-lk-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="lahiru-lk" align="right" style="width:41%; height:50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="lahiru-lk" align="right" style="width:40%; height:50%;" />
 </a>
 
 
