@@ -55,5 +55,19 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-lk&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="lahiru-lk" align="right" />
 </a>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake.svg" />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
