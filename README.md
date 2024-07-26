@@ -32,11 +32,11 @@
 
 ✅ ⚡ Fun fact **I am Funny but I am lazy , therefor I search shortcuts.**
 
-<p align="center">
-contributions in the last year
-</p>
+
+
+  <br><h3 align="center"> 🥇 Contributions in the last year:</h3>
 <picture>
-  <source
+   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake-dark.svg"
   />
