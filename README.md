@@ -34,7 +34,7 @@
 
 
 
-  <br><h3 align="center"> 🥇 Contributions in the last year:</h3>
+  <br><h3 align="center"> 🥇 Contributions in the last year 🥇 </h3>
 <picture>
    <source
     media="(prefers-color-scheme: dark)"
