@@ -67,9 +67,7 @@
 </a>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
   <div align="center">
-  <h2 align="center"> 🥇 Contributions in the last year 🥇 </h2>
 <picture>
    <source
     media="(prefers-color-scheme: dark)"
