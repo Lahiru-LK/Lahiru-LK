@@ -55,7 +55,9 @@
   </div>
 <br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools-IDE ⚒️</h2><br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools-IDE ⚒️</h2>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dart,java,javascript,php,python,typescript,css,html" /><br>
