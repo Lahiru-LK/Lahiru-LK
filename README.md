@@ -14,10 +14,10 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hello+there!+👋...;+I'm+Lahiru+Prasad!;" />
-
 </h1>
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Software Engineering - (UG) | Student at University of Ruhuna </h3>
 
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76117a0f10adaab82eb67f9fb806eb0a521b3df54db3&rid=giphy.gif&ct=s" width="300" hight="200" /><br>
