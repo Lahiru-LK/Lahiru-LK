@@ -104,7 +104,7 @@
   />
 </picture>
 
-![snake gif](https://github.com/Lahiru-LK/Lahiru-LK/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Lahiru-LK/Lahiru-LK/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
