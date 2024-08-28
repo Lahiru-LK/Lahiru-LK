@@ -89,7 +89,7 @@
   
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Lahiru-LK/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake.svg"
   />
   
 </picture>
