@@ -99,20 +99,11 @@
     srcset="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/Lahiru-LK/">
-  <img  src="https://github.com/Lahiru-LK/Lahiru-LK/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<p align = "center">
-	<img src = "https://github.com/Lahiru-LK/Lahiru-LK/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 </div>
 
