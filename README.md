@@ -13,7 +13,7 @@
 ![github-header-image](https://github.com/Lahiru-LK/Lahiru-LK/assets/104630433/0c44c2a7-9f2c-41db-baf3-9c45020505a6)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF=Hello+there!+👋...;+I'm+Lahiru+Prasad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hello+there!+👋...;+I'm+Lahiru+Prasad!;" />
 
 </h1>
 
