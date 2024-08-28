@@ -39,7 +39,10 @@
 
 
 <br>
-<h2 align="center">Connect with me 📞💬📧</h2><br>
+<h2 align="center">Connect with me 📞💬📧</h2>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 <p align="center"><a href="https://twitter.com/LK_Lahiru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lahiru" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lahiru-prasad-949a7a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lahiru" height="30" width="40" /></a>
