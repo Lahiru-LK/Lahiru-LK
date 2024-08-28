@@ -68,7 +68,8 @@
  <img src="https://skillicons.dev/icons?i=arduino,autocad,blender,cmake,figma,firebase,git,github,mongodb,mysql,postman,ae,pr,ps,ai,linux,ubuntu,unity,unreal,vite,wordpress" />
 </div>
 
-<br/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="#lahiru-lk-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=lahiru-lk&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="lahiru-lk" align="left" />
