@@ -1,3 +1,5 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <a href="https://github.com/Lahiru-LK">
@@ -11,9 +13,9 @@
 ![github-header-image](https://github.com/Lahiru-LK/Lahiru-LK/assets/104630433/0c44c2a7-9f2c-41db-baf3-9c45020505a6)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hello+there!+👋...;+I'm+Lahiru+Prasad!;" />
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&Hello+there!+👋...;+I'm+Lahiru+Prasad!;" />
+
+</h1>
 
 
 <h3 align="center">Software Engineering - (UG) | Student at University of Ruhuna </h3>
