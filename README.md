@@ -54,11 +54,12 @@
   
  [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94788311883)](https://wa.me/qr/QLOL7FG5VKK6K1) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LK_Lahiru_)  [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruprasad20000321@gmail.com)](mailto:lahiruprasad20000321@gmail.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/Lahiru-LK)](https://github.com/Lahiru-LK) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-prasad-949a7a242/)](https://www.linkedin.com/in/lahiru-prasad-949a7a242/) [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logoColor=white&logo=Telegram&link=https://#/)](https://#/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logoColor=white&logo=facebook&link=https://www.facebook.com/lahirupresath.lahiru?mibextid=ZbWKwL)](https://www.facebook.com/lahirupresath.lahiru?mibextid=ZbWKwL) [![Instagram Badge](https://img.shields.io/badge/Instagram-c32aa3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lahiru_presath/)](https://www.instagram.com/lahiru_presath/)[![Skype Badge](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)](https://#/)  [![Stack-overflow Badge](https://img.shields.io/badge/Stack-overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://#/)](https://#/) 
   </div>
-<br>
+<be>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools-IDE ⚒️</h2>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚒️ Languages-Frameworks-Tools-IDE ⚒️</h2>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dart,java,javascript,php,python,typescript,css,html" /><br>
