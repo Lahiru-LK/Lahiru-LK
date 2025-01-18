@@ -27,9 +27,9 @@
 
 
 
-✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP, C++, C#, React ,Note.js and MYSQL**
+✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP, C++, C#, React ,Note.js, Python and SQL**
 
-✅ 🔭 I’m currently working on **React, Node.js and java programming, C# .NET Guna FramWork**
+✅ 🔭 I’m currently working on **React, Node.js and java programming, C# .NET Guna FramWork,Python, C#, .NET and SQL**
 
 ✅ 💬 Ask me about **java,MEARN**
 
