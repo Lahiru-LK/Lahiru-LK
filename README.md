@@ -27,7 +27,7 @@
 
 
 
-✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP, C++, C#, React ,Note.js, Python, SQL, Flutter**
+✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP, C++, C#, React ,Note.js, Python, SQL and Flutter**
 
 ✅ 🔭 I’m currently working on **React, Node.js and java programming, C# .NET Guna FramWork,Python, C#, .NET and SQL**
 
