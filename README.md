@@ -1,9 +1,11 @@
 ## 🏆 Certifications
 
 ### GitHub Foundations Certification  
-<p align="left">
-![github-foundations](https://github.com/user-attachments/assets/c40fcbd2-07a2-4e6f-94f7-f11b03c967bf)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/Github/github-foundations.png" alt="GitHub Foundations Certification Badge" width="300" />
 </p>
+
 
 
 <!--horizontal divider(gradiant)-->
