@@ -1,9 +1,5 @@
-## 🏆 Certifications
-
-### GitHub Foundations Certification  
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/Github/github-foundations.png" alt="GitHub Foundations Certification Badge" width="300" />
+  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/Github/github-foundations.png" alt="GitHub Foundations Certification Badge" width="220" />
 </p>
 
 
