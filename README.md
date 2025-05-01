@@ -1,3 +1,9 @@
+## 🏆 Certifications
+
+### GitHub Foundations Certification  
+<p align="left">
+![github-foundations](https://github.com/user-attachments/assets/c40fcbd2-07a2-4e6f-94f7-f11b03c967bf)
+</p>
 
 
 <!--horizontal divider(gradiant)-->
