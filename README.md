@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/Github/github-foundations.png" alt="GitHub Foundations Certification Badge" width="220" />
-  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/PostMan/Postman - Postman API Fundamentals Student Expert - 2025-05-02.png" alt="Postman API Fundamentals Student Expert Badge" width="220" />
+  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/PostMan/Postman - Postman API Fundamentals Student Expert - 2025-05-02.png" alt="Postman API Fundamentals Student Expert Badge" width="220"/>
+  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/PostMan/Postman - Postman API Fundamentals Student Expert - 2025-05-02.png" alt="Postman API Fundamentals Student Expert Badge" width="220"/>
+
 </p>
 
 
