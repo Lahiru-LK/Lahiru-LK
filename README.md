@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/Github/github-foundations.png" alt="GitHub Foundations Certification Badge" width="220" />
   <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/PostMan/Postman - Postman API Fundamentals Student Expert - 2025-05-02.png" alt="Postman API Fundamentals Student Expert Badge" width="220"/>
-  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/AWS/aws-educate-introduction-to-cloud-101/aws-educate-introduction-to-cloud-101.png" alt="Badge" width="220"/
+  <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/AWS/aws-educate-introduction-to-cloud-101/aws-educate-introduction-to-cloud-101.png" alt="Badge" width="220"/>
   <img src="https://raw.githubusercontent.com/Lahiru-LK/Lahiru-LK/main/AWS/aws-educate-getting-started-with-networking/aws-educate-getting-started-with-networking.png" alt="Badge" width="220"/>
 
 </p>
