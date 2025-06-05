@@ -39,17 +39,21 @@
 
 
 
-✅ 🌱 I’m currently learning **IntelliJ IDEA,Java,PHP, C++, C#, React ,Note.js, Python, SQL and Flutter**
+### 👨‍💻 Software Engineering Undergraduate | University of Ruhuna
 
-✅ 🔭 I’m currently working on **React, Node.js and java programming, C# .NET Guna FramWork,Python, C#, .NET and SQL**
+- 🌱 **Currently Learning:** IntelliJ IDEA, Java, PHP, C++, C#, React, Node.js, Python, SQL, and Flutter  
+- 🔭 **Currently Working On:** Full-stack projects using React, Node.js, Java, C# .NET (Guna UI), Python, and SQL  
+- 📫 **Reach Me At:** [lahiruprasad20000321@gmail.com](mailto:lahiruprasad20000321@gmail.com)  
+- 👯 **Looking to Collaborate On:** Front-end and back-end development projects  
+- ⚡ **Fun Fact:** I'm funny, but lazy — so I always look for smart shortcuts 😄  
 
-✅ 💬 Ask me about **java,MEARN**
+### 🌐 My Portfolio & GitHub:
+- GitHub: [github.com/Lahiru-LK](https://github.com/Lahiru-LK)
+- Portfolio: [lahiruprasad.me](https://www.lahiruprasad.me)
 
-✅ 📫 How to reach me **lahiruprasad20000321@gmail.com**
+### 🔧 Technologies I Use Regularly:
+React, Node.js, C#, .NET, Java, Python, Flutter, SQL, PHP, C++
 
-✅ 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-✅ ⚡ Fun fact **I am Funny but I am lazy, therefor I search shortcuts.**
 
 
 
