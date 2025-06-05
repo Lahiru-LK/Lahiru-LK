@@ -39,8 +39,6 @@
 
 
 
-### 👨‍💻 Software Engineering Undergraduate | University of Ruhuna
-
 - 🌱 **Currently Learning:** IntelliJ IDEA, Java, PHP, C++, C#, React, Node.js, Python, SQL, and Flutter  
 - 🔭 **Currently Working On:** Full-stack projects using React, Node.js, Java, C# .NET (Guna UI), Python, and SQL  
 - 📫 **Reach Me At:** [lahiruprasad20000321@gmail.com](mailto:lahiruprasad20000321@gmail.com)  
